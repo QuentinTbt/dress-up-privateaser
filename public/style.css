@@ -1,0 +1,21 @@
+* {
+    font-family:'Yu Gothic';
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+balise1 
+{
+    font-size:xx-large;
+    color: red;
+}
+
+
+.margin {
+    margin : 4px auto;
+}
+
+
